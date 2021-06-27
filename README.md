@@ -1,4 +1,11 @@
-<<<<<<< HEAD
+<!--
+ * @Autor: hanjy
+ * @Date: 2021-06-27 11:49:00
+ * @LastEditors: hanjy
+ * @LastEditTime: 2021-06-27 11:52:01
+ * @Description: 
+ * @FilePath: /reacttest1/README.md
+-->
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,6 +76,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# react-test
->>>>>>> 8e18f7e0f53e44eb7efcf98ba5613db6db99969f
